@@ -4,7 +4,7 @@
 
 ![image](https://github.com/nicholastadeusantoss/nicholas-portfolio/assets/57444719/a51ca7f4-7ea3-4711-adf8-004ed3e50775)
 
-The ==project== involved structuring nine main topics to classify recurring issues in over 4,000 monthly comments using Amazon Comprehend, resulting in a 97% accuracy rate, reducing manual workload, enabling monthly tracking of topic volumes, and innovating in the company's Customer Experience sector.
+The project involved structuring nine main topics to classify recurring issues in over 4,000 monthly comments using Amazon Comprehend, resulting in a 97% accuracy rate, reducing manual workload, enabling monthly tracking of topic volumes, and innovating in the company's Customer Experience sector.
 
 **Problem:** 
 - We faced a recurring issue where every month, we had to read over 4,000 comments and classify them. Apart from the time-consuming task of reading and categorizing, we lacked a structured hierarchy of reasons, hindering our ability to track the evolution of customer-reported issues in the comments.
